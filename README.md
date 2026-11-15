@@ -6,8 +6,6 @@
 
 .NOTES
     Author          : Htain Ney
-    LinkedIn        : ://linkedin.com
-    GitHub          : ://github.com
     Date Created    : 2026-06-12
     Last Modified   : 2026-06-12
     Version         : 1.0
